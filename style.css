@@ -1,0 +1,83 @@
+/* General Styling */
+body {
+    font-family: 'Arial', sans-serif;
+        margin: 0;
+            padding: 0;
+                background-color: #f2f2f2;
+                    color: #333;
+                        line-height: 1.6;
+                        }
+
+                        h1 {
+                            color: #5a2d89;
+                                text-transform: uppercase;
+                                    margin-top: 20px;
+                                    }
+
+                                    h2, h3 {
+                                        color: #5a2d89;
+                                            text-transform: capitalize;
+                                                margin-bottom: 5px;
+                                                }
+
+                                                /* Image Styling */
+                                                img {
+                                                    border-radius: 10px;
+                                                        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+                                                            margin-top: 20px;
+                                                                border: 5px solid #5a2d89;
+                                                                }
+
+                                                                /* Bio Section Styling */
+                                                                #bio {
+                                                                    background-color: #ffffff;
+                                                                        padding: 20px;
+                                                                            margin: 20px auto;
+                                                                                width: 80%;
+                                                                                    border-radius: 8px;
+                                                                                        box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);
+                                                                                        }
+
+                                                                                        #bio p {
+                                                                                            margin: 10px 0;
+                                                                                            }
+
+                                                                                            a {
+                                                                                                color: #5a2d89;
+                                                                                                    text-decoration: none;
+                                                                                                    }
+
+                                                                                                    a:hover {
+                                                                                                        text-decoration: underline;
+                                                                                                            color: #9b4d96;
+                                                                                                            }
+
+                                                                                                            /* Section Styling */
+                                                                                                            section {
+                                                                                                                background-color: #ffffff;
+                                                                                                                    padding: 20px;
+                                                                                                                        margin: 20px auto;
+                                                                                                                            width: 80%;
+                                                                                                                                border-radius: 8px;
+                                                                                                                                    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);
+                                                                                                                                    }
+
+                                                                                                                                    section p {
+                                                                                                                                        margin-bottom: 15px;
+                                                                                                                                        }
+
+                                                                                                                                        section h3 {
+                                                                                                                                            font-size: 1.2em;
+                                                                                                                                                margin-top: 20px;
+                                                                                                                                                }
+
+                                                                                                                                                /* Link Styling */
+                                                                                                                                                a {
+                                                                                                                                                    color: #ff6347;
+                                                                                                                                                        transition: color 0.3s ease;
+                                                                                                                                                        }
+
+                                                                                                                                                        a:hover {
+                                                                                                                                                            color: #d35400;
+                                                                                                                                                            }
+                                                                                                                                                            
